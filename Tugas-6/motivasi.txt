@@ -1,0 +1,2 @@
+motivasi saya mengikuti bootcamp PHP Laravel di Sanbercode adalah untuk mempelajari tech stack baru dan menambah ilmu saya di bidang programming. 
+Harapan saya selesai dari bootcamp adalah dapat membuat sebuah aplikasi menggunakan bahasa PHP dengan framework Laravel
